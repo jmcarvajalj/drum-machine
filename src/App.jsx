@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 const buttons = {
   Q: {
     id: "Air-Horn",
-    sound: "https://github.com/jmcarvajalj/drum-machine/blob/b136af9fa64a6240ba7df08e0d407904670882d5/src/assets/sounds/Air-Horn.mp3",
+    sound: "./blob/b136af9fa64a6240ba7df08e0d407904670882d5/src/assets/sounds/Air-Horn.mp3",
     //sound: "./src/assets/sounds/Air-Horn.mp3",
     duration: 1535,
     activeColor: "#2091b3"
