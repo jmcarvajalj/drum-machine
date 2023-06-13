@@ -5,55 +5,64 @@ const buttons = {
   Q: {
     id: "Air-Horn",
     sound: "./raw/main/src/assets/sounds/Air-Horn.mp3",
-    //sound: "./src/assets/sounds/Air-Horn.mp3",
+    //Use the commented paths in development
+    //sound: "./src/assets/sounds/Air-Horn.mp3", 
     duration: 1535,
     activeColor: "#2091b3"
   },
   W: {
     id: "Snap-Flow",
-    sound: "./src/assets/sounds/Snap-Flow.mp3",
+    sound: "./raw/main/src/assets/sounds/Snap-Flow.mp3",
+    //sound: "./src/assets/sounds/Snap-Flow.mp3",
     duration: 250,
     activeColor: "#2091b3"
   },
   E: {
     id: "Tin-Can-Bell",
-    sound: "./src/assets/sounds/Tin-Can-Bell.mp3",
+    sound: "./raw/main/src/assets/sounds/Tin-Can-Bell.mp3",
+    //sound: "./src/assets/sounds/Tin-Can-Bell.mp3",
     duration: 284,
     activeColor: "#2091b3"
   },
   A: {
     id: "Cymbal-Sold",
-    sound: "./src/assets/sounds/Cymbal-Sold.mp3",
+    sound: "./raw/main/src/assets/sounds/Cymbal-Sold.mp3",
+    //sound: "./src/assets/sounds/Cymbal-Sold.mp3",
     duration: 89,
     activeColor: "#2091b3"
   },
   S: {
     id: "Cymbal-AllMe",
-    sound: "./src/assets/sounds/Cymbal-AllMe.mp3",
+    sound: "./raw/main/src/assets/sounds/Cymbal-AllMe.mp3",
+    //sound: "./src/assets/sounds/Cymbal-AllMe.mp3",
     duration: 236,
     activeColor: "#2091b3"
   },
   D: {
     id: "Clap-Apollo",
-    sound: "./src/assets/sounds/Clap-Apollo.mp3",
+    sound: "./raw/main/src/assets/sounds/Clap-Apollo.mp3",
+    //sound: "./src/assets/sounds/Clap-Apollo.mp3",
     duration: 502,
     activeColor: "#2091b3"
   },
   Z: {
     id: "Kick-HouseThud",
-    sound: "./src/assets/sounds/Kick-HouseThud.mp3",
+    sound: "./raw/main/src/assets/sounds/Kick-HouseThud.mp3",
+    //sound: "./src/assets/sounds/Kick-HouseThud.mp3",
     duration: 361,
     activeColor: "#2091b3"
   },
   X: {
     id: "Kick-Boost",
-    sound: "./src/assets/sounds/Kick-Boost.mp3",
+    sound: "./raw/main/src/assets/sounds/Kick-Boost.mp3",
+    //sound: "./src/assets/sounds/Kick-Boost.mp3",
     duration: 301,
     activeColor: "#2091b3"
   },
   C: {
     id: "Snare-Champion",
-    sound: "./src/assets/sounds/Snare-Champion.mp3",
+    sound: "./raw/main/src/assets/sounds/Snare-Champion.mp3",
+    //sound: "./src/assets/sounds/Snare-Champion.mp3",
     duration: 404,
     activeColor: "#2091b3"
   }
